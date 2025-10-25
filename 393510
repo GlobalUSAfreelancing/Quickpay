@@ -31,9 +31,9 @@
 
 <h5 class="">password<input type="text" placeholder="password"</h5>
 
-<h5 class="">will you like to pay a visit to SpaceX<input type="text" placeholder="yes or no"</h5>
+<h5 class="">will you like to pay a visit to visit clients<input type="text" placeholder="yes or no"</h5>
 
-<label for="payment">Ragistration fee($200yr) pay with BTC</label>
+<label for="payment">Ragistration fee(N20kyr) pay with BTC cash</label>
 <select name="payment" id="payment">
         
     <option value="">#_&74$hczaXhhbcxxxzZzfghggv</option>
