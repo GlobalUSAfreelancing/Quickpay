@@ -1,0 +1,219 @@
+<html>
+    <document>Gifs.com</document>
+    <body>
+    <div class="g">
+        <img src="dd" class="re">
+         Global International Freelancing<br>services</br></h1>
+    </div>
+
+   <h5 class="">first name <input type="text" placeholder="First name"</h5>
+   
+   
+<h5 class="">Surname    <input type="text" placeholder="Surename"</h5>
+
+<h5 class="">will you like to work from home or office?<input type="text" placeholder="home or office"</h5>
+
+<h5 class="">are you curently working?    <input type="text" placeholder="yes or no"</h5>
+
+
+<h5 class="">worker bank acc no. (to recieve pmt)  <input type="text" placeholder="worker bank acc no"</h5>
+
+
+<h5 class="">Gifs should take charge of your travelling expences    <input type="text" placeholder="yes or no"</h5>
+
+
+<h5 class="">Contact    <input type="text" placeholder="phone"</h5>
+
+<h5 class="">   Nationality    <input type="text" placeholder="Nationality"</h5>
+<h5 class="">Qualification    <input type="text" placeholder="Qualifications"</h5>
+
+<h5 class="">Email  <input type="text" placeholder="Email"</h5>
+
+<h5 class="">password<input type="text" placeholder="password"</h5>
+
+<h5 class="">will you like to pay a visit to SpaceX<input type="text" placeholder="yes or no"</h5>
+
+<label for="payment">Ragistration fee($200yr) pay with BTC</label>
+<select name="payment" id="payment">
+        
+    <option value="">#_&74$hczaXhhbcxxxzZzfghggv</option>
+    
+</select>
+<div class="gg">
+    <button class="button" type="submit">submit</button>
+ <h5 class="f">fee payee acc. name    <input type="text" placeholder="to comfirm payment"</h5>
+</div>
+
+
+
+<h1 id="r">Available Jobs<h5><li style=color:red; >Blocked</li> fee payment must be comfirm befor access.</h5></h1>
+<div>
+        <img src="dd" class="rd">
+</div>
+
+    <h5 class="a">Graphic designer urgently neede  ($85)<br><li style=color:green class"lil">Available</li></br></h5>
+    <h5 class="b">Truck driver urgently neede   ($250)<br><li class"lil" style=color:green>Available</li></br></h5>
+    <h5 class="c">DI operator urgenly needed   ($500)<br><li class"l" style=color:red>selected</li></br></h5>
+    <h5 class="d">open football screening available   ($1000)<br><li style=color:green class"lil">Available</li></br></h5>
+    <h5 class="e">data analies urgently needed   ($500)<br><li style=color:red class"l">selected</li></br></h5>
+    <h5 class="la">writers and editor needed   ($55)<br><li style=color:red class"l">selected</li></br></h5>
+    <h5 class="h">video editor needed   ($350)<br><li class"lil" style=color:green>Available</li></br></h5>
+    <h5 class="i">lyrics writers needed   ($125)<br><li style=color:red class"l">selected</li></br></h5>
+    <h5 class="j">writers needed   ($75)<br><li class"lil" style=color:green>Available</li></br></h5>
+    <h5 class="k">songs writers urgently needed   ($200)<br><li class"l" style=color:red>selected</li></br></h5>
+    <h5 class="a">Graphic designer urgently neede   ($55)<br><li style=color:green class"lil">Available</li></br></h5>
+    <h5 class="b">Truck driver urgently neede   ($150)<br><li class"lil" style=color:green>Available</li></br></h5>
+    <h5 class="c">DI operator urgenly needed   ($59)<br><li class"l" style=color:red>selected</li></br></h5>
+     <h5 class="a">Graphic designer urgently neede  ($85)<br><li style=color:green class"lil">Available</li></br></h5>
+    <h5 class="b">Truck driver urgently neede   ($250)<br><li class"lil" style=color:green>Available</li></br></h5>
+    <h5 class="c">DI operator urgenly needed   ($500)<br><li class"l" style=color:red>selected</li></br></h5>
+    <h5 class="d">software designer needed   ($1000)<br><li style=color:green class"lil">Available</li></br></h5>
+    <h5 class="e">data analies urgently needed   ($500)<br><li style=color:red class"l">selected</li></br></h5>
+    <h5 class="la">writers and editor needed   ($55)<br><li style=color:red class"l">selected</li></br></h5>
+    <h5 class="h">video editor needed   ($350)<br><li class"lil" style=color:green>Available</li></br></h5>
+    <h5 class="i">lyrics writers needed   ($125)<br><li style=color:red class"l">selected</li></br></h5>
+    <h5 class="j">writers needed   ($75)<br><li class"lil" style=color:green>Available</li></br></h5>
+    <h5 class="k">songs writers urgently needed   ($200)<br><li class"l" style=color:red>selected</li></br></h5>
+    <h5 class="a">Graphic designer urgently neede   ($55)<br><li style=color:green class"lil">Available</li></br></h5>
+    <h5 class="b">Truck driver urgently neede   ($150)<br><li class"lil" style=color:green>Available</li></br></h5>
+    <h5 class="c">DI operator urgenly needed   ($59)<br><li class"l" style=color:red>selected</li></br></h5>
+     <h5 class="a">Graphic designer urgently neede  ($85)<br><li style=color:green class"lil">Available</li></br></h5>
+    <h5 class="b">Truck driver urgently neede   ($250)<br><li class"lil" style=color:green>Available</li></br></h5>
+    <h5 class="c">DI operator urgenly needed   ($500)<br><li class"l" style=color:red>selected</li></br></h5>
+    <h5 class="d">software designer   ($1000)<br><li style=color:green class"lil">Available</li></br></h5>
+    <h5 class="e">data analies urgently needed   ($500)<br><li style=color:red class"l">selected</li></br></h5>
+    <h5 class="la">writers and editor needed   ($55)<br><li style=color:red class"l">selected</li></br></h5>
+    <h5 class="h">video editor needed   ($350)<br><li class"lil" style=color:green>Available</li></br></h5>
+    <h5 class="i">lyrics writers needed   ($125)<br><li style=color:red class"l">selected</li></br></h5>
+    <h5 class="j">writers needed   ($75)<br><li class"lil" style=color:green>Available</li></br></h5>
+    <h5 class="k">songs writers urgently needed   ($200)<br><li class"l" style=color:red>selected</li></br></h5>
+    <h5 class="a">Graphic designer urgently neede   ($55)<br><li style=color:green class"lil">Available</li></br></h5>
+    <h5 class="b">Truck driver urgently neede   ($150)<br><li class"lil" style=color:green>Available</li></br></h5>
+    <h5 class="c">DI operator urgenly needed   ($59)<br><li class"l" style=color:red>selected</li></br></h5>
+   
+
+
+
+<style type="text/css" media="all">
+    .jobs{
+        width: 200px;
+        height: 400px;
+        background-color:black;
+        color:white;
+        border: 4px solid green;
+        
+    }
+    h1{
+        font-size: 50px;
+        color:white;
+        background-color: black;
+        border:4px solid green;
+    }
+    .g{
+        color: green;
+        font-size: 40px;
+        height: 200px;
+        width: 300px;
+        display: flex;
+        text-align: center;
+    }
+    .re{
+        width:400px;
+        height:200px;
+    }
+    .rd{
+        height: 80px;
+        width: 40px;
+        
+        
+    }
+    input{
+        width: 200px;
+        height: 25px;
+        border-radius: 12px;
+        border: 2px solid green;
+        display: flex;
+        text-align: center;
+    }
+    button{
+        width: 100px;
+        height: 40px;
+        color:white;
+        border: 2px solid black;
+        border-radius: 18px;
+        background-color: green;
+        position: absolute;
+        right: 0px;
+        bottom:10px;
+    }
+    button:hover + .f{
+        background-color: red;
+        border: 2px solid red;
+        
+    }
+   div {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  animation-name: myAnimation;
+  animation-duration: 8s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+@keyframes myAnimation {
+  from {
+    background-color:black;
+    transform: translateX(0);
+  }
+  to {
+    background-color: white;
+    transform: translateX(100px);
+  }
+}
+
+.a,.b,.c,.d,.e,.la,.h,.i,.k,.j{
+    background: black;
+    color:white;
+    animation-name:all;
+    animation-duration: 10s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  border: 6px solid green;
+  border-radius: 10px;
+  display: flex;
+        text-align: center;
+  
+}
+@keyframes all{
+    from{
+        display: block;
+    }
+    to{
+        display:none;
+    }
+    
+}
+.
+}
+.f:has(body:hover) {
+  background-color: red;
+}
+.l{
+    color: red;
+}
+.lil{
+    color: lightgreen;
+}
+
+</style>
+
+<script src=".js" type="text/javascript" charset="utf-8">
+    
+    
+    var y = document.g
+    
+    
+</script>
+</body>
+ </html>
